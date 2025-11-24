@@ -1,0 +1,5 @@
+{
+  "name": "ResuMake AI",
+  "description": "An intelligent career assistant that analyzes your existing resume against a target job role, provides strategic improvement tips, and automatically regenerates a beautifully formatted, optimized resume.",
+  "requestFramePermissions": []
+}
